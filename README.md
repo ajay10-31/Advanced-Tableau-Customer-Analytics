@@ -58,8 +58,11 @@ https://public.tableau.com/app/profile/ajay.jayshree7406/viz/Customer-CLV-and-Ch
 ### Overview
 ![Customer CLV & Churn Dashboard](screenshots/dashboard_overview.png)
 
+### Parameter Interaction
+![Customer CLV & Churn Dashboard](screenshots/parameter_interaction.png)
+
 ### Churn Risk Indicators
-![Churn Risk Indicator](screenshots/churn_risk_indicator.png)
+![Churn Risk Indicator](screenshots/churn_risk_matrix.png)
 
 ### Revenue at Risk Analysis
 ![Revenue at Risk](screenshots/revenue_at_risk.png)
