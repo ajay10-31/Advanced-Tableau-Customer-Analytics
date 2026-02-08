@@ -1,5 +1,5 @@
 🔗 Tableau Public Dashboard:  
-https://public.tableau.com/views/YourDashboardLink
+https://public.tableau.com/app/profile/ajay.jayshree7406/viz/Customer-CLV-and-Churn-Analytics/CustomerCLVChurnAnalytics?publish=yes
 
 # Advanced Tableau Customer Analytics
 
