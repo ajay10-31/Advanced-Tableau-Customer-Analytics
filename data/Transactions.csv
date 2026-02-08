@@ -1,0 +1,6 @@
+﻿Transaction_ID,Customer_ID,Order_Date,Revenue,Product_Category
+T001,C001,1/15/2023,1200,Software
+T002,C001,3/20/2023,1500,Software
+T003,C002,4/10/2023,300,Services
+T004,C003,12/5/2022,2000,Hardware
+T005,C004,6/18/2023,450,Services
