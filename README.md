@@ -19,3 +19,18 @@ This project combines business analytics and data analysis using Tableau to mode
 - Tableau Desktop
 - CSV datasets
 - Git & GitHub
+
+- ## 📊 Dashboard Preview
+
+### Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Parameter-Driven Churn Analysis
+![Parameter Interaction](screenshots/parameter_interaction.png)
+
+### Churn Risk Matrix
+![Churn Risk Matrix](screenshots/churn_risk_matrix.png)
+
+### Revenue at Risk
+![Revenue at Risk](screenshots/revenue_at_risk.png)
+
