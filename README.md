@@ -1,3 +1,6 @@
+🔗 Tableau Public Dashboard:  
+https://public.tableau.com/views/YourDashboardLink
+
 # Advanced Tableau Customer Analytics
 
 ## Business Problem
